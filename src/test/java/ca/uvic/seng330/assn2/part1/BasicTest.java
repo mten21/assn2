@@ -1,5 +1,7 @@
 package ca.uvic.seng330.assn2.part1;
 
+import org.json.JSONException;
+import org.json.JSONObject;
 import org.junit.Test;
 
 public class BasicTest {
@@ -11,6 +13,7 @@ public class BasicTest {
     Thermostat t1 = new Thermostat();
     Lightbulb l1 = new Lightbulb();
     SmartPlug s1 = new SmartPlug();
-
+    
+    
   }
 }
